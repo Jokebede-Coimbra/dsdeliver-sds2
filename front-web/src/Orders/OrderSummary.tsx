@@ -1,5 +1,4 @@
-import { type } from "os";
-import { format } from "path";
+
 import { formatPrice } from "./helpers";
 
 type Props = {
